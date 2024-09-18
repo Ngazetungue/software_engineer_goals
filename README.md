@@ -63,7 +63,7 @@ Welcome to my repository! This repository outlines my career goals in software d
 
 | **Conference**                                        | **Year/Location**                           |
 |-------------------------------------------------------|---------------------------------------------|
-| PyCon Africa                                          | 2024                                        |
+| PyCon Africa                                          | 2019 and 2024: Accra, Ghana                 |
 | PyCon Namibia                                         | 2016 - Present: Namibia                    |
 | DjangoCon Africa                                      | 2023: Zanzibar, Tanzania                    |
 | DjangoCon Europe                                      | 2023: Edinburgh, Scotland                   |
@@ -72,6 +72,7 @@ Welcome to my repository! This repository outlines my career goals in software d
 | EuroPython                                            | 2024: Prague, Czech Republic                |
 | PyCon US                                              | 2024: Pittsburgh, Pennsylvania, USA         |
 | Ubuntu Summit                                         | 2022: Czech Republic                        |
+| PyCon UK                                              | 2019: Wales, Cardiff                        |
 
 ## 📬 Get in Touch
 
