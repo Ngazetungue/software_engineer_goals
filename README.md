@@ -49,17 +49,8 @@ Welcome to my repository! This repository outlines my career goals in software d
 - **Open Source Contributions:** Actively contributing to and maintaining open-source projects.
 - **Tech Community Building:** Organizing events and fostering collaboration in the tech industry.
 
-## 🌍 Community Building and Roles
 
-| **Role**                                              | **Details**                                 |
-|-------------------------------------------------------|---------------------------------------------|
-| **PyCon Africa**                                     | International Organising Committee          |
-| **Python Software Community in Namibia**             | Founding member and leader                  |
-| **PyCon Africa**                                     | Organising member                             |
-| **DjangoCon Africa**                                 | Organising member                             |
-| **PyCon Namibia**                                    | Organising member                           |
-
-## 📅 Conference Organizing Experience
+##  🌍 Conference Organizing Experience
 
 | **Conference**                                        | **Year/Location**                           |
 |-------------------------------------------------------|---------------------------------------------|
