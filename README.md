@@ -55,9 +55,9 @@ Welcome to my repository! This repository outlines my career goals in software d
 |-------------------------------------------------------|---------------------------------------------|
 | **PyCon Africa**                                     | International Organising Committee          |
 | **Python Software Community in Namibia**             | Founding member and leader                  |
-| **PyCon Africa**                                     | Founding member                             |
-| **DjangoCon Africa**                                 | Founding member                             |
-| **PyCon Namibia**                                    | Organizing member                           |
+| **PyCon Africa**                                     | Organising member                             |
+| **DjangoCon Africa**                                 | Organising member                             |
+| **PyCon Namibia**                                    | Organising member                           |
 
 ## 📅 Conference Organizing Experience
 
