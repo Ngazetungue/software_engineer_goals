@@ -76,9 +76,6 @@ Welcome to my repository! This repository outlines my career goals in software d
 ## 📬 Get in Touch
 
 Feel free to reach out if you'd like to collaborate on projects, discuss career goals, or share ideas:
-
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+--
 
 Thank you for visiting my repository!
