@@ -50,7 +50,7 @@ Welcome to my repository! This repository outlines my career goals in software d
 - **Tech Community Building:** Organizing events and fostering collaboration in the tech industry.
 
 
-##  🌍 Conference Organizing Experience
+##  🌍 Community building and Conference Organising Experience
 
 | **Conference**                                        | **Year/Location**                           |
 |-------------------------------------------------------|---------------------------------------------|
