@@ -4,21 +4,28 @@ Welcome to my repository! This repository outlines my career goals in software d
 
 ## 🚀 Career Goals
 
-### 1. **Master AI**
+
+### 1. **Master Advanced Python and Django**
+   - **Goal:** Achieve expertise in Python and Django to build robust web applications and contribute to major projects.
+   - **Plan:** 
+     - Complete advanced courses and certifications.
+     - Contribute to open-source projects and collaborate with the community.
+      
+### 2. **Master AI**
    - **Goal:** Attain advanced expertise in artificial intelligence to drive innovation and solve complex problems.
    - **Plan:** 
-     - Deep dive into AI research.
+     - Research more about AI.
      - Develop and implement AI-driven projects and solutions.
      - Stay updated with the latest advancements and trends in AI.
 
-### 2. **Develop and Advocate for Tech Innovations**
+### 3. **Develop and Advocate for Tech Innovations**
    - **Goal:** Create and promote innovative tech solutions while advocating for best practices and community engagement.
    - **Plan:** 
      - Develop impactful software and tech solutions.
      - Advocate for open-source contributions and community involvement.
      - Share insights and knowledge through speaking engagements and writing.
 
-### 3. **Enhance Community Engagement**
+### 4. **Enhance Community Engagement**
    - **Goal:** Strengthen the tech community by organizing and participating in events like PyCon Namibia.
    - **Plan:** 
      - Continue organizing PyCon Namibia and related events.
