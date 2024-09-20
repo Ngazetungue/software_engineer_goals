@@ -5,7 +5,7 @@ Welcome to my repository! This repository outlines my career goals in software d
 ## 🚀 Career Goals
 
 
-### 1. **Master Advanced Python and Django**
+### 1. ** Advanced Python and Django**
    - **Goal:** Achieve expertise in Python and Django to build robust web applications and contribute to major projects.
    - **Plan:** 
      - Complete advanced courses and certifications.
