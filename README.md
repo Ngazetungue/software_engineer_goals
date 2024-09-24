@@ -1,4 +1,4 @@
-## Ngazetungue Muheue - Software Development Career Goals
+## Ngazetungue Muheue -  Career opGoals
 
 Welcome to my repository! This repository outlines my career goals in software development, including my aspirations, ongoing projects, and areas of interest.
 
